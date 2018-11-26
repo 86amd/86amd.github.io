@@ -1,1 +1,1 @@
-# 86amd.github.io
+# amd86git.github.io
